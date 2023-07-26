@@ -1,8 +1,18 @@
+.header-bar {
+  color:coral;
+  height: 10px;
+}
+
 p {
   font-family:Arial, Helvetica, sans-serif
   
 }
 
 .click-me {
-  color: grey;
+  color: cadetblue;
+}
+
+.main-header {
+  text-align: center;
+  font-family: 'REM', sans-serif;
 }
